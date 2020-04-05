@@ -1,0 +1,23 @@
+.jumbotron-fluid{
+    background-image: url("../img/wallpaper.jpg");
+    background-size: cover;
+    height: 55rem;
+}
+.container-fluid{
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.row{
+    padding-bottom: 1%;
+}
+.fa {
+    padding: 1%;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.card{
+    border-radius: 3em;
+}
